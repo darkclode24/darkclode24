@@ -1,6 +1,6 @@
 # Hi there, I'm Bintang Darmawan ⚡
 
-```⚡ Computer Engineering Student | Cloud Architecture, Data Engineering & Defensive Cybersecurity```
+```⚡ Computer Engineering Student | Cloud Architecture, Data Engineering & Cybersecurity Enthusiast```
 
 I specialize in building secure infrastructure, processing high-volume datasets, and engineering defensive security environments. Currently finishing my Associate Degree at Sriwijaya University and looking for opportunities in Cloud, Data, and Security Operations (SOC).
 
