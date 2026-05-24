@@ -1,4 +1,4 @@
-# Hi there, I'm Bintang Darmawan ⚡
+# Hi there, I'm Bintang Darmawan
 
 ```⚡ Computer Engineering Student | Cloud Architecture, Data Engineering & Cybersecurity Enthusiast```
 
@@ -27,7 +27,9 @@ I specialize in building secure infrastructure, processing high-volume datasets,
 ### 📂 Featured Projects
 
 * **ELK Stack SIEM w/ Cowrie Honeypot**
-  * Real-time SIEM infrastructure engineered using Cowrie honeypots and the ELK Stack (Elastic, Kibana, Filebeat). Processes ~300 attack events daily across 100+ sources, utilizing custom Python pipelines to parse raw logs and trigger geolocation visualizations for rapid brute-force detection within ~1 minute.
+  * Real-time SIEM infrastructure engineered using Cowrie honeypots and the ELK Stack (Elastic, Kibana, Filebeat).
+  * Processes ~300 attack events daily across 100+ sources.
+  * Implemented Python pipelines to parse raw logs and trigger geolocation visual for detection within ~1 minute.
 
 ---
 
