@@ -2,7 +2,7 @@
 
 ```⚡ Computer Engineering Student | Cloud Architecture, Data Engineering & Cybersecurity Enthusiast```
 
-I specialize in building secure infrastructure, processing high-volume datasets, and engineering defensive security environments. Currently finishing my Associate Degree at Sriwijaya University and looking for opportunities in Cloud, Data, and Security Operations (SOC).
+I specialize in building secure infrastructure, processing datasets, and engineering defensive security environments. Currently learning purple-teaming, and cloud computing.
 
 ---
 
